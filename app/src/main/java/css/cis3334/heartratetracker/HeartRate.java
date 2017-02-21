@@ -51,6 +51,7 @@ public class HeartRate {
     public String getRangeDescrtiption() {
         calcHeartRange(age);
         return rangeDescriptions[range];
+
     }
 
     public Integer getPulse() {
@@ -72,6 +73,8 @@ public class HeartRate {
 
     @Override
     public String toString() {
-        return "HeartRate = " + pulse + " - " + getRangeName();
+
+        return "HeartRate = " + pulse + " - " + getRangeName() + " -" + getRangeDescrtiption();
+
     }
 }

@@ -3,6 +3,11 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
+    <color name="colorRedZone">#ea0c00</color>
+    <color name="colorAnaerobic">#f27d06</color>
+    <color name="colorAerobic">#f2b906</color>
+    <color name="colorEndurance">#f2dc06</color>
+    <color name="colorResting">#26f206</color>
+    <color name="colorModerate">#a3f206</color>
     <color name="colorZone1">#1d2dba</color>
 </resources>
